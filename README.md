@@ -1,0 +1,2 @@
+# programozas
+ Feladatok, megoldások, python
